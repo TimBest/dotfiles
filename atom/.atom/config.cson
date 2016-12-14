@@ -1,0 +1,28 @@
+"*":
+  "bracket-matcher":
+    autocompleteBrackets: false
+    autocompleteSmartQuotes: false
+  core:
+    disabledPackages: [
+      "jshint"
+    ]
+    telemetryConsent: "limited"
+    themes: [
+      "one-dark-ui"
+      "atom-dark-syntax"
+    ]
+  editor:
+    fontSize: 11
+    preferredLineLength: 100
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+    tabType: "soft"
+  "exception-reporting":
+    userId: "f24d78fa-556a-27a0-54d1-f3a97bb3f087"
+  linter:
+    errorPanelHeight: 22
+  "linter-pylint": {}
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
